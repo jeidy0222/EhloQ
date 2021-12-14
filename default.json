@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://elkobexx:mdemierda023@cluster0.3xs7a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000",
-  "hackUrl": "https://short.moglin.xyz"
+  'SERVER_URI':'https://ehloq-api-server.herokuapp.com'
+  'HACK_URI':'https://short.moglin.xyz'
+  'SHORTENER_URI':'http://localhost:5000'
 }
